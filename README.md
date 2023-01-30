@@ -1,6 +1,7 @@
 
 # Spine detection
 Detect dendritic spines from a two dimensional image
+
 Developed by Chancellor Gary
 
 Minor modification by Tetsuya Watabe
