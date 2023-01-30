@@ -1,6 +1,8 @@
 
 # Spine detection
 Detect dendritic spines from a two dimensional image
+Developed by Chancellor Gary
+Minor modification by Tetsuya Watabe
 
 # Usage
 git clone https://github.com/TetsuyaWatabe-1991/spinedetect.git
